@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-/interrobangdown.cap
+/questiondown.cap
 );
 classes = (
 {
@@ -26007,7 +26007,7 @@ unicode = 00B7;
 },
 {
 glyphname = questiondown;
-lastChange = "2015-06-18 12:00:31 +0000";
+lastChange = "2015-06-21 11:48:46 +0000";
 layers = (
 {
 layerId = "7E0ECC91-5B8E-4D6E-BF07-DE660E899F7B";
@@ -37826,90 +37826,28 @@ unicode = E441;
 },
 {
 glyphname = questiondown.cap;
-lastChange = "2015-06-17 14:17:46 +0000";
+lastChange = "2015-06-21 11:49:42 +0000";
 layers = (
 {
-layerId = "7E0ECC91-5B8E-4D6E-BF07-DE660E899F7B";
-name = Light;
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"200 740 LINE",
-"240 740 LINE",
-"240 780 LINE",
-"200 780 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"213 605 LINE",
-"208 408 OFFCURVE",
-"37 366 OFFCURVE",
-"37 198 CURVE SMOOTH",
-"37 102 OFFCURVE",
-"84 -6 OFFCURVE",
-"217 -6 CURVE SMOOTH",
-"349 -6 OFFCURVE",
-"407 100 OFFCURVE",
-"407 273 CURVE SMOOTH",
-"407 280 LINE",
-"387 280 LINE",
-"387 110 OFFCURVE",
-"338 14 OFFCURVE",
-"217 14 CURVE SMOOTH",
-"95 14 OFFCURVE",
-"57 112 OFFCURVE",
-"57 205 CURVE SMOOTH",
-"57 354 OFFCURVE",
-"228 405 OFFCURVE",
-"227 605 CURVE"
-);
+name = question;
+transform = "{-1, 0, 0, -1, 441, 781}";
 }
 );
+layerId = "7E0ECC91-5B8E-4D6E-BF07-DE660E899F7B";
+name = Light;
 width = 440;
 },
 {
-layerId = "8A6A1EBA-5B98-4308-8E77-A32B8A512EB8";
-name = Bold;
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"250 148 CURVE SMOOTH",
-"214 148 OFFCURVE",
-"201 168 OFFCURVE",
-"201 200 CURVE SMOOTH",
-"201 273 OFFCURVE",
-"342 354 OFFCURVE",
-"325 540 CURVE",
-"195 540 LINE",
-"178 355 OFFCURVE",
-"15 387 OFFCURVE",
-"15 185 CURVE SMOOTH",
-"15 93 OFFCURVE",
-"63 -14 OFFCURVE",
-"250 -14 CURVE SMOOTH",
-"426 -14 OFFCURVE",
-"490 70 OFFCURVE",
-"490 241 CURVE SMOOTH",
-"490 260 LINE",
-"304 260 LINE",
-"304 175 OFFCURVE",
-"289 148 OFFCURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"165 590 LINE",
-"355 590 LINE",
-"355 780 LINE",
-"165 780 LINE"
-);
+name = question;
+transform = "{-1, 0, 0, -1, 511, 780}";
 }
 );
+layerId = "8A6A1EBA-5B98-4308-8E77-A32B8A512EB8";
+name = Bold;
 width = 510;
 }
 );
