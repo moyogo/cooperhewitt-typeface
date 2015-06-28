@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"xq/chi-latin/Chi-latin/Betalatin B/betalatin f\U00DF/Eng O/Eszett"
-);
 classes = (
 {
 code = "W Wacute Wcircumflex Wdieresis Wgrave";
@@ -41757,6 +41754,97 @@ visible = 1;
 unicode = 0241;
 },
 {
+glyphname = Hturned;
+lastChange = "2015-06-27 10:33:07 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom.cap;
+position = "{520, 0}";
+},
+{
+name = top;
+position = "{303, 780}";
+}
+);
+layerId = "7E0ECC91-5B8E-4D6E-BF07-DE660E899F7B";
+name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"510 0 LINE",
+"530 0 LINE",
+"530 780 LINE",
+"510 780 LINE",
+"510 423 LINE",
+"475 371 OFFCURVE",
+"403 311 OFFCURVE",
+"279 311 CURVE SMOOTH",
+"162 311 OFFCURVE",
+"97 354 OFFCURVE",
+"97 481 CURVE SMOOTH",
+"97 780 LINE",
+"77 780 LINE",
+"77 475 LINE SMOOTH",
+"77 348 OFFCURVE",
+"149 291 OFFCURVE",
+"279 291 CURVE SMOOTH",
+"399 291 OFFCURVE",
+"472 342 OFFCURVE",
+"510 391 CURVE"
+);
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom.cap;
+position = "{518, 0}";
+},
+{
+name = top;
+position = "{330, 780}";
+}
+);
+layerId = "8A6A1EBA-5B98-4308-8E77-A32B8A512EB8";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"426 0 LINE",
+"610 0 LINE",
+"610 780 LINE",
+"426 780 LINE",
+"426 487 LINE",
+"411 465 OFFCURVE",
+"375 431 OFFCURVE",
+"318 431 CURVE SMOOTH",
+"253 431 OFFCURVE",
+"238 473 OFFCURVE",
+"238 515 CURVE SMOOTH",
+"238 780 LINE",
+"54 780 LINE",
+"54 485 LINE SMOOTH",
+"54 373 OFFCURVE",
+"103 273 OFFCURVE",
+"244 273 CURVE SMOOTH",
+"328 273 OFFCURVE",
+"387 304 OFFCURVE",
+"426 347 CURVE"
+);
+}
+);
+width = 672;
+}
+);
+unicode = A78D;
+},
+{
 glyphname = Iotaafrican;
 lastChange = "2015-06-23 23:20:46 +0000";
 layers = (
@@ -43977,6 +44065,55 @@ width = 519;
 }
 );
 unicode = 0242;
+},
+{
+glyphname = hturned;
+lastChange = "2015-06-27 10:30:15 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom.cap;
+position = "{453, -250}";
+},
+{
+name = top;
+position = "{293, 530}";
+}
+);
+components = (
+{
+name = h;
+transform = "{-1, 0, 0, -1, 595, 530}";
+}
+);
+layerId = "8A6A1EBA-5B98-4308-8E77-A32B8A512EB8";
+name = Bold;
+width = 595;
+},
+{
+anchors = (
+{
+name = bottom.cap;
+position = "{410, -250}";
+},
+{
+name = top;
+position = "{240, 530}";
+}
+);
+components = (
+{
+name = h;
+transform = "{-1, 0, 0, -1, 490, 530}";
+}
+);
+layerId = "7E0ECC91-5B8E-4D6E-BF07-DE660E899F7B";
+name = Light;
+width = 490;
+}
+);
+unicode = 0265;
 },
 {
 glyphname = "iota-latin";
